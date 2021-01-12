@@ -4,7 +4,7 @@
       <h2>预祝0713java全体学生统统月薪过万</h2>
       <h2>预祝0713java全体学生统统月薪过万</h2>
       <h2>预祝0713java全体学生统统月薪过万</h2>
-      <h2>预祝0713java全体学生统统月薪过万</h2>
+
    <img src="http://bigheadc-gulionline-file.oss-cn-shanghai.aliyuncs.com/avatar/7f85bc8c3a0446749f42fd06e7d73923.jpg"/>
   </div>
 </template>
